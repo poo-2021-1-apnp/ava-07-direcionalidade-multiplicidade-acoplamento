@@ -7,4 +7,4 @@ Link do Classroom: <https://classroom.github.com/a/pendente>
 - Proceda como indicado nos comentários;
 - Deve-se encapsular e proteger o estado sem quebrar a bidirecionalidade.
 
-[Esta atividade é mais relax, ](5.gif)[na manha.](6.gif)
+[Esta atividade é mais relax, ](5.gif)[na manha](6.gif).
