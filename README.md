@@ -1,6 +1,6 @@
 # Avaliação 07 Direcionalidade e Multiplicidade
 
-Link do Classroom: <https://classroom.github.com/a/pendente>
+Link do Classroom: <https://classroom.github.com/a/gm9RO5dX>
 
 - Localizar no código-fonte os comentários com **FIXME** (conserte-me);
 - Considere usar a extensão `wayou.vscode-todo-highlight` do Visual Studio para facilitar a localização;
